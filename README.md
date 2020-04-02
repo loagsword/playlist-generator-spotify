@@ -2,8 +2,6 @@
 
 Easily generate spotify playlists based on the Recommendations api from spotify.
 
-[![Latest Release](https://img.shields.io/github/release/ItsWendell/playlist-generator-spotify/all.svg?style=flat-square)](https://github.com/ItsWendell/playlist-generator-spotify/releases)
-[![Build Status](https://img.shields.io/travis/com/ItsWendell/playlist-generator-spotify/develop.svg?style=flat-square)](https://travis-ci.com/ItsWendell/playlist-generator-spotify)
 
 ## Start Developing
 
@@ -40,18 +38,6 @@ $ now
 * [Create React App](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 * [Spotify Web API](https://developer.spotify.com/documentation/web-api/reference/) - Spotify Web API Documentation.
 * [Ant Design](https://ant.design/) - Design System and Component Library.
-
-## Contributing
-
-Contributions are always welcome.
-This project is open source, and anyone may contribute.
-To keep the project healthy and running smoothly, a couple of rules are defined.
-
-1. Keep it friendly and accessible at all times.
-2. Use the templates adequately with the required information.
-3. Adhere the code styling and make sure CI passes.
-
-Make something awesome!
 
 ## License
 
